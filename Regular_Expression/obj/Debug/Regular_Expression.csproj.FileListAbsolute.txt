@@ -1,0 +1,10 @@
+D:\dev\C#Work\Regular_Expression\Regular_Expression\bin\Debug\Regular_Expression.exe.config
+D:\dev\C#Work\Regular_Expression\Regular_Expression\bin\Debug\Regular_Expression.exe
+D:\dev\C#Work\Regular_Expression\Regular_Expression\bin\Debug\Regular_Expression.pdb
+D:\dev\C#Work\Regular_Expression\Regular_Expression\obj\Debug\Regular_Expression.csproj.AssemblyReference.cache
+D:\dev\C#Work\Regular_Expression\Regular_Expression\obj\Debug\Regular_Expression.Form1.resources
+D:\dev\C#Work\Regular_Expression\Regular_Expression\obj\Debug\Regular_Expression.Properties.Resources.resources
+D:\dev\C#Work\Regular_Expression\Regular_Expression\obj\Debug\Regular_Expression.csproj.GenerateResource.cache
+D:\dev\C#Work\Regular_Expression\Regular_Expression\obj\Debug\Regular_Expression.csproj.CoreCompileInputs.cache
+D:\dev\C#Work\Regular_Expression\Regular_Expression\obj\Debug\Regular_Expression.exe
+D:\dev\C#Work\Regular_Expression\Regular_Expression\obj\Debug\Regular_Expression.pdb
