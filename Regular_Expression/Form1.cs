@@ -122,7 +122,9 @@ namespace Regular_Expression
                 }
             }
 
-            // 지정 문자열을 기준으로 잘라낸다. 지정 문자열은 잘라짐
+            // 지정 문자열을 기준으로 잘라낸다.
+            // Split을 하는 기준이 정규식 Format이라고 보면 됨
+            // List<변수> 문자열 체크에서 ex)aa List<aa> bb 가 입력된다면 결과로 aa bb 반환
             else if (rdoSplit.Checked)
             {
                 string[] sData = regex.Split(tboxCheckData.Text);  //Split은 string[]을 반환
